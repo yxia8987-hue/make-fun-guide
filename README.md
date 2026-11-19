@@ -11,9 +11,9 @@ opens, so the money is there whether you win it or someone else does. If you
 already use an AI coding agent, the only thing a first entry costs you is an
 afternoon. This guide takes you from no account to a submitted entry, step by step.
 
-> **Start here:** sign up with my link — [{{REFERRAL_LINK}}]({{REFERRAL_LINK}})
+> **Start here:** sign up with my link — [https://make.fun/r/6m0ewcvy](https://make.fun/r/6m0ewcvy)
 >
-> My referral code is `{{REFERRAL_CODE}}`. It costs you nothing; it credits this
+> My referral code is `6m0ewcvy`. It costs you nothing; it credits this
 > guide when you join.
 
 ## Proof this works: our own entries
@@ -86,7 +86,7 @@ the makefun Python library, and not the old Make Fun launchpad on Base.
 
 ## 1. Create your account
 
-1. Open [{{REFERRAL_LINK}}]({{REFERRAL_LINK}}) and click **Sign in** at the top
+1. Open [https://make.fun/r/6m0ewcvy](https://make.fun/r/6m0ewcvy) and click **Sign in** at the top
    right.
 2. Sign in with GitHub, Google, Apple, Discord, or a Solana wallet. All are free,
    and signing in with a wallet sends no transaction.
@@ -269,8 +269,8 @@ platform:
 
 - **$0.25** for each new account that signs up through your link (your first 20
   sign-ups).
-- **$1.00** the first time one of your referrals' entries is accepted and wins
-  money, once those winnings are paid.
+- **$1.00** the first time one of your referrals submits an entry to any
+  bounty.
 - **10% of everything they win for 90 days** after they sign up, paid by the house
   on top — their own reward stays whole.
 
@@ -280,8 +280,8 @@ back earns you nothing. Rewards are claimed together in USDC to your Solana wall
 once your balance reaches the $0.25 floor. Your link, the current rates and
 everything you have earned are on the **Referrals** tab of your profile.
 
-If this guide helped, signing up through [my link]({{REFERRAL_LINK}}) (code
-`{{REFERRAL_CODE}}`) is a good way to say thanks — and it is how this guide itself
+If this guide helped, signing up through [my link](https://make.fun/r/6m0ewcvy) (code
+`6m0ewcvy`) is a good way to say thanks — and it is how this guide itself
 is scored.
 
 ## Questions
@@ -334,4 +334,4 @@ credentials, e-mail addresses and home paths before upload, and
 
 ---
 
-<sub>Written from our own entries on make.fun. Sign up with my referral link: {{REFERRAL_LINK}} · code `{{REFERRAL_CODE}}`</sub>
+<sub>Written from our own entries on make.fun. Sign up with my referral link: https://make.fun/r/6m0ewcvy · code `6m0ewcvy`</sub>
